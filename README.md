@@ -1,24 +1,39 @@
-#  Hi there! 
+<div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=false&vCenter=false&width=500&lines=I'm+Dmitriy+Zagorodnikov;NLP+%26+Machine+Learning+Engineer;Founder+at+SYNCORA;RAG+%26+LLM+Optimization+Enthusiast" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,3B82F6,58A6FF&height=200&section=header&text=Dmitriy%20Zagorodnikov&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=NLP%20Engineer%20%7C%20Founder%20at%20SYNCORA&descAlignY=55&descAlign=50&descSize=20" alt="Header Banner" width="100%">
 
 I am an **NLP Engineer** specializing in machine learning, LLM integration, and developing complex AI agents. I focus on optimizing inference, building RAG systems, and automating business processes.
 
-### 🏆 Milestones & Activities
-- 🥇 **1st place winner** at the hackathon with the *FrameTamers* team (Video Fragment Retrieval challenge).
-- 🚀 **Founder & TeamLead** at SYNCORA, developing intelligent agents and business automation pipelines.
-- 🎓 Participated in the **Yandex School of Data Analysis (SHAD)** LLM Scaling Week, Agents Week.
 
 ---
 
+### 🏆 Milestones & Activities
+</div>
+
+* **Founder & Lead Engineer at SYNCORA:** Architected and shipped asynchronous AI agents for retail, automating customer support and successfully driving 1,000+ active users.
+* **LLM Inference Optimization:** Accelerated model response time by ~40% and reduced compute costs using custom serving architectures and Triton.
+* **Production-Grade RAG Pipelines:** Engineered a fault-tolerant hybrid RAG system handling 2,000+ vectorized documents and audio transcripts. Achieved 90%+ retrieval accuracy using Cross-Encoder reranking.
+* **Scalable Infrastructure:** Designed and deployed robust backend microservices using FastAPI, Docker Compose, and Supabase, ensuring high availability for Telegram-based bots.
+* **Engineering Leadership:** Managed a cross-functional team of 4 developers, establishing agile workflows and rapid MVP iterations from scratch.
+* **1st Place Hackathon Winner:** Led the *FrameTamers* team to victory with a highly optimized Video Fragment Retrieval algorithm.
+
+<br>
+
+---
+<div align="center">
+  
 ### 💻 Tech Stack & Tools
 
-**Languages**
+
+
+**Languages**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Deep Learning & NLP**
+<br>
+
+**Deep Learning & NLP**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -30,7 +45,9 @@ I am an **NLP Engineer** specializing in machine learning, LLM integration, and 
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
 
-**Classical ML & Data Science**
+<br>
+
+**Classical ML & Data Science**<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
@@ -38,13 +55,17 @@ I am an **NLP Engineer** specializing in machine learning, LLM integration, and 
 ![XGBoost](https://img.shields.io/badge/XGBoost-19B200?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
 
-**Vector DBs & RAG**
+<br>
+
+**Vector DBs & RAG**<br>
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6A00?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-00A2FF?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=white)
 
-**Backend, Databases & Infrastructure**
+<br>
+
+**Backend, Databases & Infrastructure**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -56,27 +77,32 @@ I am an **NLP Engineer** specializing in machine learning, LLM integration, and 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
-**MLOps, Serving & Data Extraction**
+<br>
+
+**MLOps, Serving & Data Extraction**<br>
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Triton](https://img.shields.io/badge/Triton-000000?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge)
+
+
+
 ---
 
-### 📊 GitHub Analytics
+<img src="https://raw.githubusercontent.com/ZAGAIQ/ZAGAIQ/output/github-snake-dark.svg" alt="Snake Animation" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZAGAIQ/ZAGAIQ/output/github-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZAGAIQ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAGAIQ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" />
-</div>
+<br>
 
 ---
 
 ### 📫 Let's Connect!
+
 <a href="https://t.me/syncora_h"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:spasewar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br><br>
+
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
