@@ -67,6 +67,10 @@ I am an **NLP Engineer** specializing in machine learning, LLM integration, and 
 ### 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ZAGAIQ/ZAGAIQ/output/github-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZAGAIQ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAGAIQ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" />
 </div>
