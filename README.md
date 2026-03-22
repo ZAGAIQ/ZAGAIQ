@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,3B82F6,58A6FF&height=200&section=header&text=Dmitriy%20Zagorodnikov&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=NLP%20Engineer%20%7C%20Founder%20at%20SYNCORA&descAlignY=55&descAlign=50&descSize=20" alt="Header Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3B82F6,311B92,8E24AA,D81B60&height=200&section=header&text=Dmitriy%20Zagorodnikov&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=NLP%20Engineer%20%7C%20Founder%20at%20SYNCORA&descAlignY=55&descAlign=50&descSize=20" alt="Header Banner" width="100%">
 
 I am an **NLP Engineer** specializing in machine learning, LLM integration, and developing complex AI agents. I focus on optimizing inference, building RAG systems, and automating business processes.
 
