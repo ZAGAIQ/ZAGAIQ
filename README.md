@@ -8,6 +8,7 @@ I am an **NLP Engineer** specializing in machine learning, LLM integration, and 
 ---
 
 ### 🏆 Milestones & Activities
+
 </div>
 
 * **Founder & Lead Engineer at SYNCORA:** Architected and shipped asynchronous AI agents for retail, automating customer support and successfully driving 1,000+ active users.
